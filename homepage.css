@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+    font-family: MapoDPPA;
+    font-size: 20px;
+    width: 950px;
+    margin: auto;
+}
+
+table,th,td{
+    width: 100px;
+    height: 80px;
+    background-color: whitesmoke;
+}
+th{
+    background-color: darkblue;
+    color: white;
+}
+
+@font-face {
+    font-family: 'MapoDPPA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDPPA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
